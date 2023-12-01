@@ -1,2 +1,2 @@
 # pet-projects
-The projects that I complete truly on my own. I take datasets from open sources.
+Projects I do to develop my skills. I take datasets from open sources.
